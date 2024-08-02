@@ -53,16 +53,16 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 # 📖Conclusion
 
-xgbregressor and Randomforest models shows promising result, therefore it can be used to solve this problem.
+1 xgbregressor and Randomforest models shows promising result, therefore it can be used to solve this problem.
 
-Bike rental count is high during week days than on weekend.
+2 Bike rental count is high during week days than on weekend.
 
-Bike demand shows peek around 8-9 AM in the morning and 6 - 7pm in the evening.
+3 Bike demand shows peek around 8-9 AM in the morning and 6 - 7pm in the evening.
 
-People prefer to rent bike more in summer than in winter.
+4 People prefer to rent bike more in summer than in winter.
 
-Bike demand is more on clear days than on snowy or rainy days.
+5 Bike demand is more on clear days than on snowy or rainy days.
 
-Temperature range from 22 to 25(°C) has more demand for bike.
+6 Temperature range from 22 to 25(°C) has more demand for bike.
 
-'Hour', 'Temperature(°C)', 'Humidity', 'Wind_speed','Visibility ', 'Dew_point_temperature', 'Solar_Radiation', 'Rainfall', 'Snowfall', 'Seasons', 'Holiday', 'month', 'day of week ' regulates bike demand.
+7 'Hour', 'Temperature(°C)', 'Humidity', 'Wind_speed','Visibility ', 'Dew_point_temperature', 'Solar_Radiation', 'Rainfall', 'Snowfall', 'Seasons', 'Holiday', 'month', 'day of week ' regulates bike demand.
