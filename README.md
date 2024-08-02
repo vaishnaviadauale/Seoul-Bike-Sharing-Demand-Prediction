@@ -35,7 +35,8 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 ![image](https://github.com/user-attachments/assets/eb432c06-4271-491a-a414-876353ed2e5f)
 
-# 📖Project Flowchart:¶
+# 📖Project Flowchart:
+
 1 Loading data and Diagnosing the data
 
 2 Data Filtering
