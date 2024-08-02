@@ -1,9 +1,9 @@
 # Seoul-Bike-Sharing-Demand-Prediction
 
-# Problem statement
+# 📖Problem statement
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
-Attribute Information:
+# 📖Attribute Information:
 
 🔶Date : year-month-day
 
@@ -35,7 +35,7 @@ Attribute Information:
 
 ![image](https://github.com/user-attachments/assets/eb432c06-4271-491a-a414-876353ed2e5f)
 
-# Project Flowchart:¶
+# 📖Project Flowchart:¶
 1 Loading data and Diagnosing the data
 
 2 Data Filtering
@@ -50,7 +50,8 @@ Attribute Information:
 
 7 Model Training and Testing
 
-📖Conclusion
+# 📖Conclusion
+
 xgbregressor and Randomforest models shows promising result, therefore it can be used to solve this problem.
 
 Bike rental count is high during week days than on weekend.
